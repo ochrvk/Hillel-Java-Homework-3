@@ -1,4 +1,4 @@
-package chrvk.hw3.task1;
+package chrvk.javaelementary.hw3.task1;
 
 /*
 Написать метод numJewelsInStones который принимает 2 параметра:

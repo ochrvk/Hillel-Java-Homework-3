@@ -1,4 +1,4 @@
-package chrvk.hw3.task2;
+package chrvk.javaelementary.hw3.task2;
 
 /*
 Написать метод.

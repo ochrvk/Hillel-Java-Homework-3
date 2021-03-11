@@ -1,4 +1,4 @@
-package chrvk.hw3.task3;
+package chrvk.javaelementary.hw3.task3;
 
 /*
 Дана строк состоящая из любых символов.
