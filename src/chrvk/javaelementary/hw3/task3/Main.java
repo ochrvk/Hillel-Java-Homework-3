@@ -1,14 +1,5 @@
 package chrvk.javaelementary.hw3.task3;
 
-/*
-Дана строк состоящая из любых символов.
-Не используя стандартный метод String.toLowerCase()
-перевести все большие латинские буквы в маленькие.
-Пример:
-Input: "#1AmC"
-Output: "#1amc"
- */
-
 public class Main {
     public static void main(String[] args) {
         String line = "#1AmC";
